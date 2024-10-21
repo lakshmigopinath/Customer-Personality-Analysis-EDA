@@ -14,7 +14,7 @@ The objective of this analysis is to:
 ## Dataset Overview
 
 ### Source
-This dataset is provided by Dr. Omar Romero-Hernandez and is accessible from **[Kaggle](https://www.kaggle.com/omarromero/marketing-data)**.
+This dataset is provided by Dr. Omar Romero-Hernandez and is accessible from Kaggle
 
 ### Description
 The dataset contains detailed information about customer demographics, purchase history, and interaction with marketing campaigns.
